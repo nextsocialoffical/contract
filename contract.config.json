@@ -1,0 +1,26 @@
+{
+  "decodeContract": {
+    "artifactsPath": "dececode/DeceCode.sol/dececode.json",
+    "name": "DeceCode",
+    "ctor": [],
+    "jsonName": "dececode"
+  },
+  "lensProtocol": {
+    "artifactsPath": "4-LensHub.sol/LensHub.json",
+    "name": "LensHub",
+    "ctor": [],
+    "jsonName": "lens_hub"
+  },
+  "superFluidFollowModule": {
+    "name": "SuperFluidFollowModule",
+    "artifactsPath": "dececode/SuperFluidFollowModule.sol/SuperFluidFollowModule.json",
+    "jsonName": "superFluidFollowModule",
+    "ctor": [
+      "0xEB796bdb90fFA0f28255275e16936D25d3418603",
+      "0x49e565Ed1bdc17F3d220f72DF0857C26FA83F873",
+      "0x5D8B4C2554aeB7e86F387B4d6c00Ac33499Ed01f",
+      "0x64eAC406b33CB5A833F34DDa2A47114bcb17a736",
+      "0xE833E428f062DD125F811fE227416E0C3bfFb14D"
+    ]
+  }
+}
